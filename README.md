@@ -4,7 +4,7 @@
 
 - 💻: SRE & DevOps - <a href="https://www.ecritel.com">Ecritel</a>
 - 🎓: Graduated in Information Technology Management - <a href="https://drummond.com.br/">UniDrummond</a>
-- 🏫: Alura Student - <a href="https://www.alura.br/">Alura Cursos Online</a>
+- 🏫: Alura Student - <a href="https://www.alura.com.br/">Alura Cursos Online</a>
 - 🌱: I'm especializing in cloud architecture
 - 💬: Pronouns: He/Him
 <hr>
