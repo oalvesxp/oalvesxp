@@ -52,6 +52,11 @@
 - 📚: 10/2022 - Networks Onboarding: a practical perspective - <a href="https://cursos.alura.com.br/certificate/b4d86788-56f8-4d4a-b640-abc7d14a9c41">Certified</a>
 - 📚: 11/2022 - Networks I: concepts and practice - <a href="https://cursos.alura.com.br/certificate/e15e9700-397e-4adb-af30-893ab1ca4837">Certified</a>
 
+<h4>Cloud Computing:</h4>
+
+- 📚: 10/2022 - Cloud Onboarding I: working with leading providers - <a href="https://cursos.alura.com.br/certificate/b49e4075-94b9-444b-bd6b-2ed32d2abe6c">Certified</a>
+- 📚: 10/2022 - Cloud Onboarding II: knowing the main providers - <a href="https://cursos.alura.com.br/certificate/c678cae3-71ce-4256-bd4b-92836db76ff0">Certified</a>
+
 <h4>Amazon Web Services:</h4>
 
 - 📚: 10/2022 - Amazon Lightsail: Making the Cloud Easy - <a href="https://cursos.alura.com.br/certificate/f5737d3a-3cf2-4633-9d7f-b76840c9741f">Certified</a>
@@ -62,11 +67,11 @@
 - 📚: 10/2022 - Amazon Cloud Front and Route53: Distribute Your Files and Create Your Own Domain - <a href="https://cursos.alura.com.br/certificate/e146c02c-a0c3-4f19-89e2-b85808c37ed0">Certified</a>
 - 📚: 10/2022 - Amazon CloudWatch: Complete Visibility into Cloud Applications and Services - <a href="https://cursos.alura.com.br/certificate/111fb891-ec0a-47a8-8388-ec8215acb643">Certified</a>
 - 📚: 11/2022 - Amazon ECS: Manage Docker in the AWS Cloud - <a href="https://cursos.alura.com.br/certificate/1f84f5a3-0339-47bc-b3e9-1e940e564ceb">Certified</a>
-- 📚: 11/2022 - Amazon Elastic Beanstalk I: Docker container - <a href="https://cursos.alura.com.br/certificate/7b9f2066-56bf-42f7-a2c3-90d89a9f42a3">Certified</a>
-- 📚: 11/2022 - Amazon Elastic Beanstalk II: Multiple Containers and NGINX - <a href="https://cursos.alura.com.br/certificate/61c88ff5-ee79-4242-8e57-ab584d316619">Certified</a>
+- 📚: 01/2023 - Amazon Elastic Beanstalk I: Docker container - <a href="https://cursos.alura.com.br/certificate/7b9f2066-56bf-42f7-a2c3-90d89a9f42a3">Certified</a>
+- 📚: 01/2023 - Amazon Elastic Beanstalk II: Multiple Containers and NGINX - <a href="https://cursos.alura.com.br/certificate/61c88ff5-ee79-4242-8e57-ab584d316619">Certified</a>
+- 📚: 01/2023 - AWS Certified Cloud Practitioner: Domain 1 and 2 - <a href="https://cursos.alura.com.br/certificate/531e9cf3-219f-4da5-8ab3-92082ba4831f">Certified</a>
+- 📚: 01/2023 - AWS Certified Cloud Practitioner: Domain 3 and 4 - <a href="https://cursos.alura.com.br/certificate/f3464492-2541-46e1-9484-c6516953c7b4">Certified</a>
+eles 
 
-
-</br>
-</br>
 </br>
 <h3>Thank You! 😄</h3>
