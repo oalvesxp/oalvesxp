@@ -71,7 +71,6 @@
 - 📚: 01/2023 - Amazon Elastic Beanstalk II: Multiple Containers and NGINX - <a href="https://cursos.alura.com.br/certificate/61c88ff5-ee79-4242-8e57-ab584d316619">Certified</a>
 - 📚: 01/2023 - AWS Certified Cloud Practitioner: Domain 1 and 2 - <a href="https://cursos.alura.com.br/certificate/531e9cf3-219f-4da5-8ab3-92082ba4831f">Certified</a>
 - 📚: 01/2023 - AWS Certified Cloud Practitioner: Domain 3 and 4 - <a href="https://cursos.alura.com.br/certificate/f3464492-2541-46e1-9484-c6516953c7b4">Certified</a>
-eles 
 
 </br>
 <h3>Thank You! 😄</h3>
