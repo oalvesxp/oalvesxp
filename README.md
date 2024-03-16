@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Osvaldo Alves 👋🏽
 
-* Profissão  💼 : DevOps, SRE & Programador Python
-* Formação 👨🏽‍🎓 : Gestão de Técnologia da Informação
-* Certificação: <a href="https://www.credly.com/badges/7edc29d2-8ee6-4c98-94e6-e4d1072db3ba/linked_in_profile">AWS Cloud Practitioner Certified</a>
-* Estudando 🎒 : Programação Web 
-* Pronouns 🧔🏽 : Ele/Dele - He/Him   
+* 💼 : Software Developer
+* 👨🏽‍🎓 : Management Information Technology
+* 📜 : <a href="https://www.credly.com/badges/7edc29d2-8ee6-4c98-94e6-e4d1072db3ba/linked_in_profile">AWS Cloud Practitioner Certified</a>
+* 🎒 : Passionate about python, sql, science and robotics 
+* 🧔🏽 : Ele/Dele - He/Him   
 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oalvesxp@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:oalves.neto@outlook.com)
@@ -20,6 +20,7 @@
 
 </br>
 
+<!-- 
 ### Skills & Técnologias
 ---
 
@@ -75,3 +76,5 @@ IaC & CI/CD:</br>
 Monitoring:</br>
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Grafana](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+
+-->
