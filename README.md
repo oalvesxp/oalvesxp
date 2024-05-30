@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Osvaldo Alves 👋🏽
 
-* 💼 : Software Developer
+* 💼 : Backend Developer PHP / SQL and ADVPL
 * 👨🏽‍🎓 : Management Information Technology
 * 📜 : <a href="https://www.credly.com/badges/7edc29d2-8ee6-4c98-94e6-e4d1072db3ba/linked_in_profile">AWS Cloud Practitioner Certified</a>
 * 🎒 : Passionate about python, sql, science and robotics 
