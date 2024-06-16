@@ -3,7 +3,7 @@
 * 💼 : Backend Developer PHP / SQL and ADVPL
 * 👨🏽‍🎓 : Management Information Technology
 * 📜 : <a href="https://www.credly.com/badges/7edc29d2-8ee6-4c98-94e6-e4d1072db3ba/linked_in_profile">AWS Cloud Practitioner Certified</a>
-* 🎒 : Passionate about python, sql, science and robotics 
+* 🎒 : Passionate about PHP, sql and science  
 * 🧔🏽 : Ele/Dele - He/Him   
 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oalvesxp@gmail.com)
