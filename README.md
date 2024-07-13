@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff55bd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Osvaldo+A.+Neto;I'm+27+years+old;I+am+from+Hortolândia,+SP;I'm+a+Backend+Developer+PHP+;Be+Welcome!+:%35)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff55bd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Osvaldo+A.+Neto;I'm+27+years+old;I+am+from+Hortolândia,+SP;I'm+a+Backend+Developer+PHP+;Be+Welcome!)](https://git.io/typing-svg)
 
 </div>
 </br>
