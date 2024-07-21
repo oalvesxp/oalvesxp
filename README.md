@@ -23,7 +23,7 @@
 <div align="center"> 
  
 ### Studying in this moment:
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668af025501413692bd0ee31?variant=dark&roadmaps=backend%2Cfrontend%2Cdevops%2Csql" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668af025501413692bd0ee31?variant=dark&roadmaps=backend%2Cfrontend" alt="roadmap.sh"/></a>
 
 </div>
 
