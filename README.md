@@ -23,7 +23,7 @@
 <div align="center"> 
  
 ### Studying in this moment:
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668af025501413692bd0ee31?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/668af025501413692bd0ee31?variant=dark)](https://roadmap.sh)
 
 </div>
 
