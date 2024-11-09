@@ -9,7 +9,7 @@
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oalvesxp&show_icons=true&count_private=true&hide_border=true&title_color=ff55bd&icon_color=7056ff&text_color=fafafa&bg_color=0d1117" alt="Osvaldo Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesxp&layout=compact&hide_border=true&title_color=ff55bd&text_color=fafafa&bg_color=0d1117" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesxp&layout=compact&hide_border=true&title_color=ff55bd&text_color=fafafa&bg_color=0d1117" />
 </div>
 </br>
 </br>
