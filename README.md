@@ -1,17 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7056ff&height=120&section=header"/>
+# Osvaldo A. Neto 
 
-<div align="center">  
+Backend Developer.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff55bd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Osvaldo+A.+Neto;I've+27+years+old;I'm+from+Hortolândia,+SP;I'm+a+NodeJS+and+AdvPL+backend+developer+;Be+Welcome!)](https://git.io/typing-svg)
+[![Twitter Badge](https://img.shields.io/badge/-@oalvesxp-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/oalvesxp)](https://twitter.com/oalvesxp) 
+[![Linkedin Badge](https://img.shields.io/badge/-Osvaldo%20Alves-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oalvesxp/)](https://www.linkedin.com/in/oalvesxp/) 
+[![Gmail Badge](https://img.shields.io/badge/oalves.neto@outlook.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oalves.neto@outlook.com)](mailto:oalves.neto@outlook.com)
 
-</div>
-</br>
+Enthusiast of the best web development technologies.
 
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oalvesxp&show_icons=true&count_private=true&hide_border=true&title_color=ff55bd&icon_color=7056ff&text_color=fafafa&bg_color=0d1117" alt="Osvaldo Alves github stats" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalvesxp&layout=compact&hide_border=true&title_color=ff55bd&text_color=fafafa&bg_color=0d1117" />
-</div>
-</br>
-</br>
+My passion for learning new technologies drives me to create scalable and efficient solutions.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7056ff&height=120&section=footer"/>
+I am always looking to improve myself and embrace challenges that help me grow professionally, with the aim of becoming an increasingly complete developer.
