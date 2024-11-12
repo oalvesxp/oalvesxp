@@ -10,4 +10,5 @@ Enthusiast of the best web development technologies.
 
 My passion for learning new technologies drives me to create scalable and efficient solutions.
 
+"Your future is created by what you do today, not tomorrow."</br>
 I am always looking to improve myself and embrace challenges that help me grow professionally, with the aim of becoming an increasingly complete developer.
