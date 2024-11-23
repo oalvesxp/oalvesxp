@@ -1,4 +1,6 @@
-# Osvaldo Alves
+<img src="https://yt3.googleusercontent.com/26udGFVvmPo1UItp3XW7JsfyP8f2VlJvNDh_t6QW_nVzzxL_Navk46h5lTXnfT3KAk626-WLKw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="banner" />
+
+#
 
 - 💻 I'm Backend Developer
 - ⚛️ JavaScript | Node.js | React
