@@ -3,8 +3,8 @@
 #
 
 - 💻 I'm Backend Developer
-- ⚛️ JavaScript | Node.js | React
-- ☁️ Certified AWS Cloud Practitioner
+- ⚛️ JavaScript | Node.js | TypeScript | React
+- ☁️ AWS Certified Cloud Practitioner
 - 🎓 Graduated in Information technology management
 - 📚 Studying Software Engineering at Estácio
 - 🚀 I'm a student at @Rocketseat
