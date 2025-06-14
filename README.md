@@ -2,13 +2,14 @@
 
 #
 
-- 💻 Backend Developer
+- 💻 Backend Developer at IntegraFácil
 - ⚛️ JavaScript | Node.js | TypeScript | React
 - ☁️ AWS Certified
 - 🎓 Graduated in Information Technology Management
 - 📚 Currently pursuing a degree in Software Engineering at Estácio
 - 🚀 Currently studying at @Rocketseat
 - ⭐ I try to help people who're studying programing on [LinkedIn](https://www.linkedin.com/in/oalvesxp/) and [Twitter](https://twitter.com/oalvesxp).
+- 💬 Portuguese, English and Spanish
 
 #
 
