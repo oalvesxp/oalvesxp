@@ -1,5 +1,5 @@
 - 💻 Backend Developer at IntegraFácil
-- ⚛️ JavaScript | Node.js | TypeScript | React
+- ⚛️ JavaScript | Node.js | TypeScript | C
 - ☁️ AWS Certified
 - 🎓 Graduated in Information Technology Management
 - 📚 Currently pursuing a degree in Software Engineering at Estácio
